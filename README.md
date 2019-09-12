@@ -1,2 +1,2 @@
 # Intro_JavaScript-Homework
-Completed Level 1
+Level 1 - Completed
